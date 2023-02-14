@@ -4,7 +4,7 @@ description: Explains about Enterprise Application Framework - Spring, GEAF, Zac
 ---
 
 - Frameworks  help people to organize and assess completeness of integrated models of their enterprises.
-- An Architectural Framework gives a skeletal structures that defines suggested architectural artifacts, describes ow those artifacts are related to each other and provides generic definition for what those artifacts might look like.
+- An Architectural Framework gives a skeletal structures that defines suggested architectural artifacts, describes how those artifacts are related to each other and provides generic definition for what those artifacts might look like.
 
 > How to create and use an enterprise architecture ?
 
